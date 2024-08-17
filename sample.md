@@ -5,6 +5,8 @@ Here is some awesome text
 
 > And here is a cool quote about how bad ass this build is
 
+[Link to video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Character Creation
 
 ### Stats
